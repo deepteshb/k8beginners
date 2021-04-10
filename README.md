@@ -1,1 +1,1 @@
-# k8beginners
+# kubernetes-for-beginners
